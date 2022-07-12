@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-My first readme
+## My first readme :smiley:
+
 special modification
 =======
-My git s readme
+My gits readme
 Spécial modification
->>>>>>> 628c2e2d0148ce9a91d4c2d68bc00f607cad5b85
